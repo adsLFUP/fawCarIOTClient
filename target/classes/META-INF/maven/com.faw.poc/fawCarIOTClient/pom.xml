@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+
+	<groupId>com.faw.poc</groupId>
+	<artifactId>fawCarIOTClient</artifactId>
+	<version>1.0</version>
+	<packaging>jar</packaging>
+
+	<name>fawCarIOTClient</name>
+	<description>Demo project for Fawcar IOT client</description>
+
+	<parent>
+		<groupId>org.springframework.boot</groupId>
+		<artifactId>spring-boot-starter-parent</artifactId>
+		<version>2.0.1.RELEASE</version>
+		<relativePath/> <!-- lookup parent from repository -->
+	</parent>
+
+	<properties>
+		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
+		<java.version>1.8</java.version>
+		<Olib.path>${project.basedir}/oracle_lib</Olib.path>
+	</properties>
+
+	<dependencies>
+		<dependency>
+			<groupId>org.springframework.boot</groupId>
+			<artifactId>spring-boot-starter</artifactId>
+		</dependency>
+
+
+		<dependency>
+			<groupId>org.springframework.boot</groupId>
+			<artifactId>spring-boot-starter-test</artifactId>
+			<scope>test</scope>
+		</dependency>
+		<!-- oracle IOT libs-->
+		<dependency>
+			<groupId>com.oracle</groupId>
+			<artifactId>bootstrapper</artifactId>
+			<version>1.0</version>
+			<scope>system</scope>
+			<systemPath>${Olib.path}/bootstrapper.jar</systemPath>
+		</dependency>
+		<dependency>
+			<groupId>com.oracle</groupId>
+			<artifactId>device-library</artifactId>
+			<version>1.0</version>
+			<scope>system</scope>
+			<systemPath>${Olib.path}/device-library.jar</systemPath>
+		</dependency>
+		<dependency>
+			<groupId>com.oracle</groupId>
+			<artifactId>device-library</artifactId>
+			<version>1.0</version>
+			<scope>system</scope>
+			<systemPath>${Olib.path}/derby-10.11.1.1.jar</systemPath>
+		</dependency>
+		<dependency>
+			<groupId>com.oracle</groupId>
+			<artifactId>enterpriseLibrary</artifactId>
+			<version>1.0</version>
+			<scope>system</scope>
+			<systemPath>${Olib.path}/enterprise-library.jar</systemPath>
+		</dependency>
+		<dependency>
+			<groupId>com.oracle</groupId>
+			<artifactId>json</artifactId>
+			<version>1.0</version>
+			<scope>system</scope>
+			<systemPath>${Olib.path}/json-20160212.jar</systemPath>
+		</dependency>
+		<dependency>
+			<groupId>com.alibaba</groupId>
+			<artifactId>fastjson</artifactId>
+			<version>1.2.47</version>
+		</dependency>
+		<dependency>  
+		    <groupId>com.esotericsoftware.reflectasm</groupId>  
+		    <artifactId>reflectasm</artifactId>  
+		    <version>1.09</version>  
+		</dependency> 
+		<dependency>
+            <groupId>com.aic</groupId>
+            <artifactId>onlinebase</artifactId>
+            <version>1.0</version>
+        </dependency>
+        <dependency>
+			<groupId>org.mybatis</groupId>
+			<artifactId>mybatis</artifactId>
+			<version>3.4.0</version>
+		</dependency>
+		<dependency>
+		    <groupId>com.microsoft.sqlserver</groupId>
+		    <artifactId>sqljdbc4</artifactId>
+		    <version>4.0</version>
+		</dependency>
+		
+	</dependencies>
+
+	<build>
+		<plugins>
+			<plugin>
+				<groupId>org.springframework.boot</groupId>
+				<artifactId>spring-boot-maven-plugin</artifactId>
+			</plugin>
+		</plugins>
+		<resources>
+			<resource>
+				<directory>oracle_lib</directory>
+				<targetPath>BOOT-INF/lib/</targetPath>
+				<includes>
+					<include>*.jar</include>
+				</includes>
+			</resource>
+			<resource>
+				<directory>src/main/resources</directory>
+				<targetPath>./</targetPath>
+				<includes>
+					<include>*.properties</include>
+					<include>*.xml</include>
+				</includes>
+			</resource>
+			<resource>
+				<directory>src/main/resources</directory>
+				<targetPath>./</targetPath>
+				<includes>
+					<include>*.cid</include>
+				</includes>
+			</resource>
+		</resources>
+	</build>
+
+
+</project>

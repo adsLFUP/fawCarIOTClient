@@ -1,0 +1,5 @@
+com\faw\poc\iotclientmock\model\IotMsg.class
+com\faw\poc\iotclientmock\IotclientmockApplication.class
+com\faw\poc\iotclientmock\DirectlyConnectedMock\MockAbsService$1.class
+com\faw\poc\iotclientmock\DirectlyConnectedMock\MockAbsService.class
+com\faw\poc\iotclientmock\DirectlyConnectedMock\MockMischiDeviceMock.class

@@ -1,0 +1,275 @@
+2018-09-25 11:33:20.269 [main] INFO  com.faw.poc.iotclientmock.IotclientmockApplication - Starting IotclientmockApplication on liufei-PC with PID 6568 (D:\useNewTech\ssmDemo\fawCarIOTClient\target\classes started by liuhg in D:\useNewTech\ssmDemo\fawCarIOTClient)
+2018-09-25 11:33:20.279 [main] DEBUG com.faw.poc.iotclientmock.IotclientmockApplication - Running with Spring Boot v2.0.1.RELEASE, Spring v5.0.5.RELEASE
+2018-09-25 11:33:20.282 [main] INFO  com.faw.poc.iotclientmock.IotclientmockApplication - No active profile set, falling back to default profiles: default
+2018-09-25 11:33:22.962 [main] INFO  com.faw.poc.iotclientmock.IotclientmockApplication - Started IotclientmockApplication in 3.535 seconds (JVM running for 10.904)
+2018-09-25 11:33:22.968 [main] INFO  com.faw.poc.iotclientmock.IotclientmockApplication$$EnhancerBySpringCGLIB$$c4ef08ad - 0
+2018-09-25 11:33:22.969 [main] ERROR com.faw.poc.iotclientmock.IotclientmockApplication$$EnhancerBySpringCGLIB$$c4ef08ad - Error input
+2018-09-25 11:38:03.602 [main] INFO  com.faw.poc.iotclientmock.IotclientmockApplication - Starting IotclientmockApplication on liufei-PC with PID 10484 (D:\useNewTech\ssmDemo\fawCarIOTClient\target\classes started by liuhg in D:\useNewTech\ssmDemo\fawCarIOTClient)
+2018-09-25 11:38:03.612 [main] DEBUG com.faw.poc.iotclientmock.IotclientmockApplication - Running with Spring Boot v2.0.1.RELEASE, Spring v5.0.5.RELEASE
+2018-09-25 11:38:03.616 [main] INFO  com.faw.poc.iotclientmock.IotclientmockApplication - No active profile set, falling back to default profiles: default
+2018-09-25 11:38:06.248 [main] INFO  com.faw.poc.iotclientmock.IotclientmockApplication - Started IotclientmockApplication in 3.494 seconds (JVM running for 15.197)
+2018-09-25 11:38:06.254 [main] INFO  com.faw.poc.iotclientmock.IotclientmockApplication$$EnhancerBySpringCGLIB$$661835b1 - 0
+2018-09-25 11:38:06.255 [main] ERROR com.faw.poc.iotclientmock.IotclientmockApplication$$EnhancerBySpringCGLIB$$661835b1 - Error input
+2018-09-25 11:38:16.316 [main] INFO  com.faw.poc.iotclientmock.IotclientmockApplication - Starting IotclientmockApplication on liufei-PC with PID 6700 (D:\useNewTech\ssmDemo\fawCarIOTClient\target\classes started by liuhg in D:\useNewTech\ssmDemo\fawCarIOTClient)
+2018-09-25 11:38:16.321 [main] DEBUG com.faw.poc.iotclientmock.IotclientmockApplication - Running with Spring Boot v2.0.1.RELEASE, Spring v5.0.5.RELEASE
+2018-09-25 11:38:16.322 [main] INFO  com.faw.poc.iotclientmock.IotclientmockApplication - No active profile set, falling back to default profiles: default
+2018-09-25 11:38:17.102 [main] INFO  com.faw.poc.iotclientmock.IotclientmockApplication - Started IotclientmockApplication in 1.061 seconds (JVM running for 3.735)
+2018-09-25 11:38:17.917 [main] INFO  com.faw.poc.iotclientmock.IotclientmockApplication$$EnhancerBySpringCGLIB$$c4ebbb20 - 0
+2018-09-25 11:44:02.436 [main] INFO  com.faw.poc.iotclientmock.IotclientmockApplication - Starting IotclientmockApplication on liufei-PC with PID 6700 (D:\useNewTech\ssmDemo\fawCarIOTClient\target\classes started by liuhg in D:\useNewTech\ssmDemo\fawCarIOTClient)
+2018-09-25 11:44:02.437 [main] DEBUG com.faw.poc.iotclientmock.IotclientmockApplication - Running with Spring Boot v2.0.1.RELEASE, Spring v5.0.5.RELEASE
+2018-09-25 11:44:02.438 [main] INFO  com.faw.poc.iotclientmock.IotclientmockApplication - No active profile set, falling back to default profiles: default
+2018-09-25 11:44:02.614 [main] INFO  com.faw.poc.iotclientmock.IotclientmockApplication - Started IotclientmockApplication in 0.219 seconds (JVM running for 349.243)
+2018-09-25 11:44:05.592 [main] INFO  com.faw.poc.iotclientmock.IotclientmockApplication$$EnhancerBySpringCGLIB$$c4ebbb20 - 0
+2018-09-25 11:44:08.904 [main] ERROR com.faw.poc.iotclientmock.IotclientmockApplication$$EnhancerBySpringCGLIB$$c4ebbb20 - Error input
+2018-09-25 11:56:14.529 [main] INFO  com.faw.poc.iotclientmock.IotclientmockApplication - Starting IotclientmockApplication on liufei-PC with PID 6480 (D:\useNewTech\ssmDemo\fawCarIOTClient\target\classes started by liuhg in D:\useNewTech\ssmDemo\fawCarIOTClient)
+2018-09-25 11:56:14.540 [main] DEBUG com.faw.poc.iotclientmock.IotclientmockApplication - Running with Spring Boot v2.0.1.RELEASE, Spring v5.0.5.RELEASE
+2018-09-25 11:56:14.544 [main] INFO  com.faw.poc.iotclientmock.IotclientmockApplication - No active profile set, falling back to default profiles: default
+2018-09-25 11:56:17.215 [main] INFO  com.faw.poc.iotclientmock.IotclientmockApplication - Started IotclientmockApplication in 3.543 seconds (JVM running for 14.453)
+2018-09-25 11:56:18.251 [main] INFO  com.faw.poc.iotclientmock.IotclientmockApplication$$EnhancerBySpringCGLIB$$b96425d9 - 4
+2018-09-25 11:56:20.061 [main] DEBUG com.faw.poc.iotclientmock.DirectlyConnectedMock.MockMischiDeviceMock - https://oc-129-156-117-105.compute.oraclecloud.com|urn:hangtianzhikong:sensor1|D:\useNewTech\ssmDemo\fawCarIOTClient\hangtianzhikong_sensor1.csv
+2018-09-25 11:56:20.093 [main] ERROR unknown.jul.logger - D:\useNewTech\ssmDemo\fawCarIOTClient\hangtianzhikong_sensor1.csv not found
+2018-09-25 11:56:20.097 [main] ERROR com.faw.poc.iotclientmock.DirectlyConnectedMock.MockMischiDeviceMock - Error loading trusted assets...
+com.oracle.iot.client.trust.TrustException: Error loading trusted assets...
+	at com.oracle.iot.client.impl.trust.UnifiedTrustedAssetsManager.load(UnifiedTrustedAssetsManager.java:175)
+	at com.oracle.iot.client.impl.trust.UnifiedTrustedAssetsManager.<init>(UnifiedTrustedAssetsManager.java:140)
+	at com.oracle.iot.client.impl.trust.TrustedAssetsManagerFactory.create(TrustedAssetsManagerFactory.java:34)
+	at com.oracle.iot.client.trust.TrustedAssetsManager$Factory.getTrustedAssetsManager(TrustedAssetsManager.java:230)
+	at com.oracle.iot.client.device.DirectlyConnectedDevice.<init>(DirectlyConnectedDevice.java:132)
+	at oracle.iot.client.device.DirectlyConnectedDevice.<init>(DirectlyConnectedDevice.java:115)
+	at oracle.iot.client.device.DirectlyConnectedDevice.<init>(DirectlyConnectedDevice.java:91)
+	at com.faw.poc.iotclientmock.DirectlyConnectedMock.MockAbsService.handleWork(MockAbsService.java:37)
+	at com.faw.poc.iotclientmock.DirectlyConnectedMock.MockMischiDeviceMock.startWork(MockMischiDeviceMock.java:25)
+	at com.faw.poc.iotclientmock.IotclientmockApplication.run(IotclientmockApplication.java:80)
+	at org.springframework.boot.SpringApplication.callRunner(SpringApplication.java:797)
+	at org.springframework.boot.SpringApplication.callRunners(SpringApplication.java:781)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:335)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1255)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1243)
+	at com.faw.poc.iotclientmock.IotclientmockApplication.main(IotclientmockApplication.java:64)
+Caused by: java.io.FileNotFoundException: D:\useNewTech\ssmDemo\fawCarIOTClient\hangtianzhikong_sensor1.csv (系统找不到指定的文件。)
+	at java.io.FileInputStream.open0(Native Method)
+	at java.io.FileInputStream.open(Unknown Source)
+	at java.io.FileInputStream.<init>(Unknown Source)
+	at com.oracle.iot.client.impl.trust.UnifiedTrustedAssetsManager.load(UnifiedTrustedAssetsManager.java:172)
+	... 15 common frames omitted
+2018-09-25 11:56:20.098 [main] DEBUG com.faw.poc.iotclientmock.DirectlyConnectedMock.MockMischiDeviceMock - message sent [IotMsg{RMSV=1.1, PeakV=1.1, PPV=1.1, SlopeV=1.1, KurtosisV=1.1, WaveFactorV=1.1, PeakFactorV=1.1, PulseFactorV=1.1, ClearnanceFactorV=1.1, KurtosisFactorV=1.1}]
+2018-09-25 11:56:43.516 [main] INFO  com.faw.poc.iotclientmock.IotclientmockApplication - Starting IotclientmockApplication on liufei-PC with PID 6480 (D:\useNewTech\ssmDemo\fawCarIOTClient\target\classes started by liuhg in D:\useNewTech\ssmDemo\fawCarIOTClient)
+2018-09-25 11:56:43.516 [main] DEBUG com.faw.poc.iotclientmock.IotclientmockApplication - Running with Spring Boot v2.0.1.RELEASE, Spring v5.0.5.RELEASE
+2018-09-25 11:56:43.516 [main] INFO  com.faw.poc.iotclientmock.IotclientmockApplication - No active profile set, falling back to default profiles: default
+2018-09-25 11:56:43.756 [main] INFO  com.faw.poc.iotclientmock.IotclientmockApplication - Started IotclientmockApplication in 0.345 seconds (JVM running for 40.994)
+2018-09-25 11:56:44.268 [main] INFO  com.faw.poc.iotclientmock.IotclientmockApplication$$EnhancerBySpringCGLIB$$b96425d9 - 4
+2018-09-25 11:56:44.269 [main] DEBUG com.faw.poc.iotclientmock.DirectlyConnectedMock.MockMischiDeviceMock - https://oc-129-156-117-105.compute.oraclecloud.com|urn:hangtianzhikong:sensor1|D:\useNewTech\ssmDemo\fawCarIOTClient\hangtianzhikong_sensor1.csv
+2018-09-25 11:56:44.269 [main] ERROR unknown.jul.logger - D:\useNewTech\ssmDemo\fawCarIOTClient\hangtianzhikong_sensor1.csv not found
+2018-09-25 11:56:44.270 [main] ERROR com.faw.poc.iotclientmock.DirectlyConnectedMock.MockMischiDeviceMock - Error loading trusted assets...
+com.oracle.iot.client.trust.TrustException: Error loading trusted assets...
+	at com.oracle.iot.client.impl.trust.UnifiedTrustedAssetsManager.load(UnifiedTrustedAssetsManager.java:175)
+	at com.oracle.iot.client.impl.trust.UnifiedTrustedAssetsManager.<init>(UnifiedTrustedAssetsManager.java:140)
+	at com.oracle.iot.client.impl.trust.TrustedAssetsManagerFactory.create(TrustedAssetsManagerFactory.java:34)
+	at com.oracle.iot.client.trust.TrustedAssetsManager$Factory.getTrustedAssetsManager(TrustedAssetsManager.java:230)
+	at com.oracle.iot.client.device.DirectlyConnectedDevice.<init>(DirectlyConnectedDevice.java:132)
+	at oracle.iot.client.device.DirectlyConnectedDevice.<init>(DirectlyConnectedDevice.java:115)
+	at oracle.iot.client.device.DirectlyConnectedDevice.<init>(DirectlyConnectedDevice.java:91)
+	at com.faw.poc.iotclientmock.DirectlyConnectedMock.MockAbsService.handleWork(MockAbsService.java:37)
+	at com.faw.poc.iotclientmock.DirectlyConnectedMock.MockMischiDeviceMock.startWork(MockMischiDeviceMock.java:25)
+	at com.faw.poc.iotclientmock.IotclientmockApplication.run(IotclientmockApplication.java:80)
+	at org.springframework.boot.SpringApplication.callRunner(SpringApplication.java:797)
+	at org.springframework.boot.SpringApplication.callRunners(SpringApplication.java:781)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:335)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1255)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1243)
+	at com.faw.poc.iotclientmock.IotclientmockApplication.main(IotclientmockApplication.java:64)
+Caused by: java.io.FileNotFoundException: D:\useNewTech\ssmDemo\fawCarIOTClient\hangtianzhikong_sensor1.csv (系统找不到指定的文件。)
+	at java.io.FileInputStream.open0(Native Method)
+	at java.io.FileInputStream.open(Unknown Source)
+	at java.io.FileInputStream.<init>(Unknown Source)
+	at com.oracle.iot.client.impl.trust.UnifiedTrustedAssetsManager.load(UnifiedTrustedAssetsManager.java:172)
+	... 15 common frames omitted
+2018-09-25 11:56:44.270 [main] DEBUG com.faw.poc.iotclientmock.DirectlyConnectedMock.MockMischiDeviceMock - message sent [IotMsg{RMSV=1.1, PeakV=1.1, PPV=1.1, SlopeV=1.1, KurtosisV=1.1, WaveFactorV=1.1, PeakFactorV=1.1, PulseFactorV=1.1, ClearnanceFactorV=1.1, KurtosisFactorV=1.1}]
+2018-09-25 11:57:01.262 [main] INFO  com.faw.poc.iotclientmock.IotclientmockApplication - Starting IotclientmockApplication on liufei-PC with PID 4520 (D:\useNewTech\ssmDemo\fawCarIOTClient\target\classes started by liuhg in D:\useNewTech\ssmDemo\fawCarIOTClient)
+2018-09-25 11:57:01.271 [main] DEBUG com.faw.poc.iotclientmock.IotclientmockApplication - Running with Spring Boot v2.0.1.RELEASE, Spring v5.0.5.RELEASE
+2018-09-25 11:57:01.275 [main] INFO  com.faw.poc.iotclientmock.IotclientmockApplication - No active profile set, falling back to default profiles: default
+2018-09-25 11:57:03.926 [main] INFO  com.faw.poc.iotclientmock.IotclientmockApplication - Started IotclientmockApplication in 3.54 seconds (JVM running for 14.616)
+2018-09-25 11:57:04.816 [main] INFO  com.faw.poc.iotclientmock.IotclientmockApplication$$EnhancerBySpringCGLIB$$b96425d9 - 4
+2018-09-25 11:57:09.229 [main] DEBUG com.faw.poc.iotclientmock.DirectlyConnectedMock.MockMischiDeviceMock - https://oc-129-156-117-105.compute.oraclecloud.com|urn:hangtianzhikong:sensor1|D:\useNewTech\ssmDemo\fawCarIOTClient\hangtianzhikong_sensor2.csv
+2018-09-25 11:57:10.016 [main] ERROR unknown.jul.logger - caught 'java.lang.RuntimeException: java.security.NoSuchAlgorithmException: PBKDF2WithHmacSHA1 SecretKeyFactory not available' while loading trusted assets file D:\useNewTech\ssmDemo\fawCarIOTClient\hangtianzhikong_sensor2.csv
+2018-09-25 13:11:44.335 [main] ERROR com.faw.poc.iotclientmock.DirectlyConnectedMock.MockMischiDeviceMock - Error loading trusted assets file D:\useNewTech\ssmDemo\fawCarIOTClient\hangtianzhikong_sensor2.csv
+com.oracle.iot.client.trust.TrustException: Error loading trusted assets file D:\useNewTech\ssmDemo\fawCarIOTClient\hangtianzhikong_sensor2.csv
+	at com.oracle.iot.client.impl.trust.UnifiedTrustedAssetsManager.load(UnifiedTrustedAssetsManager.java:185)
+	at com.oracle.iot.client.impl.trust.UnifiedTrustedAssetsManager.<init>(UnifiedTrustedAssetsManager.java:140)
+	at com.oracle.iot.client.impl.trust.TrustedAssetsManagerFactory.create(TrustedAssetsManagerFactory.java:34)
+	at com.oracle.iot.client.trust.TrustedAssetsManager$Factory.getTrustedAssetsManager(TrustedAssetsManager.java:230)
+	at com.oracle.iot.client.device.DirectlyConnectedDevice.<init>(DirectlyConnectedDevice.java:132)
+	at oracle.iot.client.device.DirectlyConnectedDevice.<init>(DirectlyConnectedDevice.java:115)
+	at oracle.iot.client.device.DirectlyConnectedDevice.<init>(DirectlyConnectedDevice.java:91)
+	at com.faw.poc.iotclientmock.DirectlyConnectedMock.MockAbsService.handleWork(MockAbsService.java:37)
+	at com.faw.poc.iotclientmock.DirectlyConnectedMock.MockMischiDeviceMock.startWork(MockMischiDeviceMock.java:25)
+	at com.faw.poc.iotclientmock.IotclientmockApplication.run(IotclientmockApplication.java:83)
+	at org.springframework.boot.SpringApplication.callRunner(SpringApplication.java:797)
+	at org.springframework.boot.SpringApplication.callRunners(SpringApplication.java:781)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:335)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1255)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1243)
+	at com.faw.poc.iotclientmock.IotclientmockApplication.main(IotclientmockApplication.java:64)
+Caused by: java.lang.RuntimeException: java.security.NoSuchAlgorithmException: PBKDF2WithHmacSHA1 SecretKeyFactory not available
+	at com.oracle.iot.client.impl.trust.UnifiedTrustedAssetsManager.createKey(UnifiedTrustedAssetsManager.java:405)
+	at com.oracle.iot.client.impl.trust.UnifiedTrustedAssetsManager.initialize(UnifiedTrustedAssetsManager.java:227)
+	at com.oracle.iot.client.impl.trust.UnifiedTrustedAssetsManager.load(UnifiedTrustedAssetsManager.java:181)
+	... 15 common frames omitted
+Caused by: java.security.NoSuchAlgorithmException: PBKDF2WithHmacSHA1 SecretKeyFactory not available
+	at javax.crypto.SecretKeyFactory.<init>(SecretKeyFactory.java:122)
+	at javax.crypto.SecretKeyFactory.getInstance(SecretKeyFactory.java:160)
+	at com.oracle.iot.client.impl.trust.UnifiedTrustedAssetsManager.createKey(UnifiedTrustedAssetsManager.java:400)
+	... 17 common frames omitted
+2018-09-25 13:12:13.452 [main] DEBUG com.faw.poc.iotclientmock.DirectlyConnectedMock.MockMischiDeviceMock - message sent [IotMsg{RMSV=1.1, PeakV=1.1, PPV=1.1, SlopeV=1.1, KurtosisV=1.1, WaveFactorV=1.1, PeakFactorV=1.1, PulseFactorV=1.1, ClearnanceFactorV=1.1, KurtosisFactorV=1.1}]
+2018-09-25 13:15:02.038 [main] INFO  com.faw.poc.iotclientmock.IotclientmockApplication - Starting IotclientmockApplication on liufei-PC with PID 13792 (D:\useNewTech\ssmDemo\fawCarIOTClient\target\classes started by liuhg in D:\useNewTech\ssmDemo\fawCarIOTClient)
+2018-09-25 13:15:02.048 [main] DEBUG com.faw.poc.iotclientmock.IotclientmockApplication - Running with Spring Boot v2.0.1.RELEASE, Spring v5.0.5.RELEASE
+2018-09-25 13:15:02.051 [main] INFO  com.faw.poc.iotclientmock.IotclientmockApplication - No active profile set, falling back to default profiles: default
+2018-09-25 13:15:04.721 [main] INFO  com.faw.poc.iotclientmock.IotclientmockApplication - Started IotclientmockApplication in 3.562 seconds (JVM running for 16.401)
+2018-09-25 13:15:08.622 [main] INFO  com.faw.poc.iotclientmock.IotclientmockApplication$$EnhancerBySpringCGLIB$$9bf02e44 - 4
+2018-09-25 13:15:11.054 [main] DEBUG com.faw.poc.iotclientmock.DirectlyConnectedMock.MockMischiDeviceMock - https://oc-129-156-117-105.compute.oraclecloud.com|urn:hangtianzhikong:sensor1|D:\useNewTech\ssmDemo\fawCarIOTClient\hangtianzhikong_sensor2.csv
+2018-09-25 13:15:11.559 [main] ERROR unknown.jul.logger - caught 'java.lang.RuntimeException: java.security.NoSuchAlgorithmException: PBKDF2WithHmacSHA1 SecretKeyFactory not available' while loading trusted assets file D:\useNewTech\ssmDemo\fawCarIOTClient\hangtianzhikong_sensor2.csv
+2018-09-25 13:15:11.563 [main] ERROR com.faw.poc.iotclientmock.DirectlyConnectedMock.MockMischiDeviceMock - Error loading trusted assets file D:\useNewTech\ssmDemo\fawCarIOTClient\hangtianzhikong_sensor2.csv
+com.oracle.iot.client.trust.TrustException: Error loading trusted assets file D:\useNewTech\ssmDemo\fawCarIOTClient\hangtianzhikong_sensor2.csv
+	at com.oracle.iot.client.impl.trust.UnifiedTrustedAssetsManager.load(UnifiedTrustedAssetsManager.java:185)
+	at com.oracle.iot.client.impl.trust.UnifiedTrustedAssetsManager.<init>(UnifiedTrustedAssetsManager.java:140)
+	at com.oracle.iot.client.impl.trust.TrustedAssetsManagerFactory.create(TrustedAssetsManagerFactory.java:34)
+	at com.oracle.iot.client.trust.TrustedAssetsManager$Factory.getTrustedAssetsManager(TrustedAssetsManager.java:230)
+	at com.oracle.iot.client.device.DirectlyConnectedDevice.<init>(DirectlyConnectedDevice.java:132)
+	at oracle.iot.client.device.DirectlyConnectedDevice.<init>(DirectlyConnectedDevice.java:115)
+	at oracle.iot.client.device.DirectlyConnectedDevice.<init>(DirectlyConnectedDevice.java:91)
+	at com.faw.poc.iotclientmock.DirectlyConnectedMock.MockAbsService.handleWork(MockAbsService.java:37)
+	at com.faw.poc.iotclientmock.DirectlyConnectedMock.MockMischiDeviceMock.startWork(MockMischiDeviceMock.java:25)
+	at com.faw.poc.iotclientmock.IotclientmockApplication.run(IotclientmockApplication.java:83)
+	at org.springframework.boot.SpringApplication.callRunner(SpringApplication.java:797)
+	at org.springframework.boot.SpringApplication.callRunners(SpringApplication.java:781)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:335)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1255)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1243)
+	at com.faw.poc.iotclientmock.IotclientmockApplication.main(IotclientmockApplication.java:64)
+Caused by: java.lang.RuntimeException: java.security.NoSuchAlgorithmException: PBKDF2WithHmacSHA1 SecretKeyFactory not available
+	at com.oracle.iot.client.impl.trust.UnifiedTrustedAssetsManager.createKey(UnifiedTrustedAssetsManager.java:405)
+	at com.oracle.iot.client.impl.trust.UnifiedTrustedAssetsManager.initialize(UnifiedTrustedAssetsManager.java:227)
+	at com.oracle.iot.client.impl.trust.UnifiedTrustedAssetsManager.load(UnifiedTrustedAssetsManager.java:181)
+	... 15 common frames omitted
+Caused by: java.security.NoSuchAlgorithmException: PBKDF2WithHmacSHA1 SecretKeyFactory not available
+	at javax.crypto.SecretKeyFactory.<init>(SecretKeyFactory.java:122)
+	at javax.crypto.SecretKeyFactory.getInstance(SecretKeyFactory.java:160)
+	at com.oracle.iot.client.impl.trust.UnifiedTrustedAssetsManager.createKey(UnifiedTrustedAssetsManager.java:400)
+	... 17 common frames omitted
+2018-09-25 13:15:11.565 [main] DEBUG com.faw.poc.iotclientmock.DirectlyConnectedMock.MockMischiDeviceMock - message sent [IotMsg{RMSV=1.1, PeakV=1.1, PPV=1.1, SlopeV=1.1, KurtosisV=1.1, WaveFactorV=1.1, PeakFactorV=1.1, PulseFactorV=1.1, ClearnanceFactorV=1.1, KurtosisFactorV=1.1}]
+2018-09-25 13:15:29.595 [main] INFO  com.faw.poc.iotclientmock.IotclientmockApplication$$EnhancerBySpringCGLIB$$9bf02e44 - 4
+2018-09-25 13:15:31.949 [main] DEBUG com.faw.poc.iotclientmock.DirectlyConnectedMock.MockMischiDeviceMock - https://oc-129-156-117-105.compute.oraclecloud.com|urn:hangtianzhikong:sensor1|D:\useNewTech\ssmDemo\fawCarIOTClient\hangtianzhikong_sensor2.csv
+2018-09-25 13:15:31.952 [main] ERROR unknown.jul.logger - caught 'java.lang.RuntimeException: java.security.NoSuchAlgorithmException: PBKDF2WithHmacSHA1 SecretKeyFactory not available' while loading trusted assets file D:\useNewTech\ssmDemo\fawCarIOTClient\hangtianzhikong_sensor2.csv
+2018-09-25 13:15:31.954 [main] ERROR com.faw.poc.iotclientmock.DirectlyConnectedMock.MockMischiDeviceMock - Error loading trusted assets file D:\useNewTech\ssmDemo\fawCarIOTClient\hangtianzhikong_sensor2.csv
+com.oracle.iot.client.trust.TrustException: Error loading trusted assets file D:\useNewTech\ssmDemo\fawCarIOTClient\hangtianzhikong_sensor2.csv
+	at com.oracle.iot.client.impl.trust.UnifiedTrustedAssetsManager.load(UnifiedTrustedAssetsManager.java:185)
+	at com.oracle.iot.client.impl.trust.UnifiedTrustedAssetsManager.<init>(UnifiedTrustedAssetsManager.java:140)
+	at com.oracle.iot.client.impl.trust.TrustedAssetsManagerFactory.create(TrustedAssetsManagerFactory.java:34)
+	at com.oracle.iot.client.trust.TrustedAssetsManager$Factory.getTrustedAssetsManager(TrustedAssetsManager.java:230)
+	at com.oracle.iot.client.device.DirectlyConnectedDevice.<init>(DirectlyConnectedDevice.java:132)
+	at oracle.iot.client.device.DirectlyConnectedDevice.<init>(DirectlyConnectedDevice.java:115)
+	at oracle.iot.client.device.DirectlyConnectedDevice.<init>(DirectlyConnectedDevice.java:91)
+	at com.faw.poc.iotclientmock.DirectlyConnectedMock.MockAbsService.handleWork(MockAbsService.java:37)
+	at com.faw.poc.iotclientmock.DirectlyConnectedMock.MockMischiDeviceMock.startWork(MockMischiDeviceMock.java:25)
+	at com.faw.poc.iotclientmock.IotclientmockApplication.run(IotclientmockApplication.java:83)
+	at org.springframework.boot.SpringApplication.callRunner(SpringApplication.java:797)
+	at org.springframework.boot.SpringApplication.callRunners(SpringApplication.java:781)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:335)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1255)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1243)
+	at com.faw.poc.iotclientmock.IotclientmockApplication.main(IotclientmockApplication.java:64)
+Caused by: java.lang.RuntimeException: java.security.NoSuchAlgorithmException: PBKDF2WithHmacSHA1 SecretKeyFactory not available
+	at com.oracle.iot.client.impl.trust.UnifiedTrustedAssetsManager.createKey(UnifiedTrustedAssetsManager.java:405)
+	at com.oracle.iot.client.impl.trust.UnifiedTrustedAssetsManager.initialize(UnifiedTrustedAssetsManager.java:227)
+	at com.oracle.iot.client.impl.trust.UnifiedTrustedAssetsManager.load(UnifiedTrustedAssetsManager.java:181)
+	... 15 common frames omitted
+Caused by: java.security.NoSuchAlgorithmException: PBKDF2WithHmacSHA1 SecretKeyFactory not available
+	at javax.crypto.SecretKeyFactory.<init>(SecretKeyFactory.java:122)
+	at javax.crypto.SecretKeyFactory.getInstance(SecretKeyFactory.java:160)
+	at com.oracle.iot.client.impl.trust.UnifiedTrustedAssetsManager.createKey(UnifiedTrustedAssetsManager.java:400)
+	... 17 common frames omitted
+2018-09-25 13:15:31.958 [main] DEBUG com.faw.poc.iotclientmock.DirectlyConnectedMock.MockMischiDeviceMock - message sent [IotMsg{RMSV=1.1, PeakV=1.1, PPV=1.1, SlopeV=1.1, KurtosisV=1.1, WaveFactorV=1.1, PeakFactorV=1.1, PulseFactorV=1.1, ClearnanceFactorV=1.1, KurtosisFactorV=1.1}]
+2018-09-25 13:15:39.550 [main] INFO  com.faw.poc.iotclientmock.IotclientmockApplication$$EnhancerBySpringCGLIB$$9bf02e44 - 4
+2018-09-25 13:15:44.100 [main] DEBUG com.faw.poc.iotclientmock.DirectlyConnectedMock.MockMischiDeviceMock - https://oc-129-156-117-105.compute.oraclecloud.com|urn:hangtianzhikong:sensor1|D:\useNewTech\ssmDemo\fawCarIOTClient\hangtianzhikong_sensor2.csv
+2018-09-25 13:15:44.101 [main] ERROR unknown.jul.logger - caught 'java.lang.RuntimeException: java.security.NoSuchAlgorithmException: PBKDF2WithHmacSHA1 SecretKeyFactory not available' while loading trusted assets file D:\useNewTech\ssmDemo\fawCarIOTClient\hangtianzhikong_sensor2.csv
+2018-09-25 13:15:44.102 [main] ERROR com.faw.poc.iotclientmock.DirectlyConnectedMock.MockMischiDeviceMock - Error loading trusted assets file D:\useNewTech\ssmDemo\fawCarIOTClient\hangtianzhikong_sensor2.csv
+com.oracle.iot.client.trust.TrustException: Error loading trusted assets file D:\useNewTech\ssmDemo\fawCarIOTClient\hangtianzhikong_sensor2.csv
+	at com.oracle.iot.client.impl.trust.UnifiedTrustedAssetsManager.load(UnifiedTrustedAssetsManager.java:185)
+	at com.oracle.iot.client.impl.trust.UnifiedTrustedAssetsManager.<init>(UnifiedTrustedAssetsManager.java:140)
+	at com.oracle.iot.client.impl.trust.TrustedAssetsManagerFactory.create(TrustedAssetsManagerFactory.java:34)
+	at com.oracle.iot.client.trust.TrustedAssetsManager$Factory.getTrustedAssetsManager(TrustedAssetsManager.java:230)
+	at com.oracle.iot.client.device.DirectlyConnectedDevice.<init>(DirectlyConnectedDevice.java:132)
+	at oracle.iot.client.device.DirectlyConnectedDevice.<init>(DirectlyConnectedDevice.java:115)
+	at oracle.iot.client.device.DirectlyConnectedDevice.<init>(DirectlyConnectedDevice.java:91)
+	at com.faw.poc.iotclientmock.DirectlyConnectedMock.MockAbsService.handleWork(MockAbsService.java:37)
+	at com.faw.poc.iotclientmock.DirectlyConnectedMock.MockMischiDeviceMock.startWork(MockMischiDeviceMock.java:25)
+	at com.faw.poc.iotclientmock.IotclientmockApplication.run(IotclientmockApplication.java:83)
+	at org.springframework.boot.SpringApplication.callRunner(SpringApplication.java:797)
+	at org.springframework.boot.SpringApplication.callRunners(SpringApplication.java:781)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:335)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1255)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1243)
+	at com.faw.poc.iotclientmock.IotclientmockApplication.main(IotclientmockApplication.java:64)
+Caused by: java.lang.RuntimeException: java.security.NoSuchAlgorithmException: PBKDF2WithHmacSHA1 SecretKeyFactory not available
+	at com.oracle.iot.client.impl.trust.UnifiedTrustedAssetsManager.createKey(UnifiedTrustedAssetsManager.java:405)
+	at com.oracle.iot.client.impl.trust.UnifiedTrustedAssetsManager.initialize(UnifiedTrustedAssetsManager.java:227)
+	at com.oracle.iot.client.impl.trust.UnifiedTrustedAssetsManager.load(UnifiedTrustedAssetsManager.java:181)
+	... 15 common frames omitted
+Caused by: java.security.NoSuchAlgorithmException: PBKDF2WithHmacSHA1 SecretKeyFactory not available
+	at javax.crypto.SecretKeyFactory.<init>(SecretKeyFactory.java:122)
+	at javax.crypto.SecretKeyFactory.getInstance(SecretKeyFactory.java:160)
+	at com.oracle.iot.client.impl.trust.UnifiedTrustedAssetsManager.createKey(UnifiedTrustedAssetsManager.java:400)
+	... 17 common frames omitted
+2018-09-25 13:15:44.104 [main] DEBUG com.faw.poc.iotclientmock.DirectlyConnectedMock.MockMischiDeviceMock - message sent [IotMsg{RMSV=1.1, PeakV=1.1, PPV=1.1, SlopeV=1.1, KurtosisV=1.1, WaveFactorV=1.1, PeakFactorV=1.1, PulseFactorV=1.1, ClearnanceFactorV=1.1, KurtosisFactorV=1.1}]
+2018-09-25 13:28:05.040 [main] INFO  com.faw.poc.iotclientmock.IotclientmockApplication - Starting IotclientmockApplication on liufei-PC with PID 11836 (D:\useNewTech\ssmDemo\fawCarIOTClient\target\classes started by liuhg in D:\useNewTech\ssmDemo\fawCarIOTClient)
+2018-09-25 13:28:05.050 [main] DEBUG com.faw.poc.iotclientmock.IotclientmockApplication - Running with Spring Boot v2.0.1.RELEASE, Spring v5.0.5.RELEASE
+2018-09-25 13:28:05.053 [main] INFO  com.faw.poc.iotclientmock.IotclientmockApplication - No active profile set, falling back to default profiles: default
+2018-09-25 13:28:07.703 [main] INFO  com.faw.poc.iotclientmock.IotclientmockApplication - Started IotclientmockApplication in 3.537 seconds (JVM running for 17.599)
+2018-09-25 13:28:17.480 [main] INFO  com.faw.poc.iotclientmock.IotclientmockApplication$$EnhancerBySpringCGLIB$$35791e20 - 4
+2018-09-25 13:28:23.611 [main] DEBUG com.faw.poc.iotclientmock.DirectlyConnectedMock.MockMischiDeviceMock - https://oc-129-156-117-105.compute.oraclecloud.com|urn:hangtianzhikong:sensor1|D:\useNewTech\ssmDemo\fawCarIOTClient\hangtianzhikong_sensor2.csv
+2018-09-25 13:28:42.883 [main] ERROR unknown.jul.logger - caught 'java.lang.RuntimeException: java.security.NoSuchAlgorithmException: PBKDF2WithHmacSHA1 SecretKeyFactory not available' while loading trusted assets file D:\useNewTech\ssmDemo\fawCarIOTClient\hangtianzhikong_sensor2.csv
+2018-09-25 13:34:27.945 [main] ERROR com.faw.poc.iotclientmock.DirectlyConnectedMock.MockMischiDeviceMock - Error loading trusted assets file D:\useNewTech\ssmDemo\fawCarIOTClient\hangtianzhikong_sensor2.csv
+com.oracle.iot.client.trust.TrustException: Error loading trusted assets file D:\useNewTech\ssmDemo\fawCarIOTClient\hangtianzhikong_sensor2.csv
+	at com.oracle.iot.client.impl.trust.UnifiedTrustedAssetsManager.load(UnifiedTrustedAssetsManager.java:185)
+	at com.oracle.iot.client.impl.trust.UnifiedTrustedAssetsManager.<init>(UnifiedTrustedAssetsManager.java:140)
+	at com.oracle.iot.client.impl.trust.TrustedAssetsManagerFactory.create(TrustedAssetsManagerFactory.java:34)
+	at com.oracle.iot.client.trust.TrustedAssetsManager$Factory.getTrustedAssetsManager(TrustedAssetsManager.java:230)
+	at com.oracle.iot.client.device.DirectlyConnectedDevice.<init>(DirectlyConnectedDevice.java:132)
+	at oracle.iot.client.device.DirectlyConnectedDevice.<init>(DirectlyConnectedDevice.java:115)
+	at oracle.iot.client.device.DirectlyConnectedDevice.<init>(DirectlyConnectedDevice.java:91)
+	at com.faw.poc.iotclientmock.DirectlyConnectedMock.MockAbsService.handleWork(MockAbsService.java:37)
+	at com.faw.poc.iotclientmock.DirectlyConnectedMock.MockMischiDeviceMock.startWork(MockMischiDeviceMock.java:25)
+	at com.faw.poc.iotclientmock.IotclientmockApplication.run(IotclientmockApplication.java:83)
+	at org.springframework.boot.SpringApplication.callRunner(SpringApplication.java:797)
+	at org.springframework.boot.SpringApplication.callRunners(SpringApplication.java:781)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:335)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1255)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1243)
+	at com.faw.poc.iotclientmock.IotclientmockApplication.main(IotclientmockApplication.java:64)
+Caused by: java.lang.RuntimeException: java.security.NoSuchAlgorithmException: PBKDF2WithHmacSHA1 SecretKeyFactory not available
+	at com.oracle.iot.client.impl.trust.UnifiedTrustedAssetsManager.createKey(UnifiedTrustedAssetsManager.java:405)
+	at com.oracle.iot.client.impl.trust.UnifiedTrustedAssetsManager.initialize(UnifiedTrustedAssetsManager.java:227)
+	at com.oracle.iot.client.impl.trust.UnifiedTrustedAssetsManager.load(UnifiedTrustedAssetsManager.java:181)
+	... 15 common frames omitted
+Caused by: java.security.NoSuchAlgorithmException: PBKDF2WithHmacSHA1 SecretKeyFactory not available
+	at javax.crypto.SecretKeyFactory.<init>(SecretKeyFactory.java:122)
+	at javax.crypto.SecretKeyFactory.getInstance(SecretKeyFactory.java:160)
+	at com.oracle.iot.client.impl.trust.UnifiedTrustedAssetsManager.createKey(UnifiedTrustedAssetsManager.java:400)
+	... 17 common frames omitted
+2018-09-25 13:34:27.946 [main] DEBUG com.faw.poc.iotclientmock.DirectlyConnectedMock.MockMischiDeviceMock - message sent [IotMsg{RMSV=1.1, PeakV=1.1, PPV=1.1, SlopeV=1.1, KurtosisV=1.1, WaveFactorV=1.1, PeakFactorV=1.1, PulseFactorV=1.1, ClearnanceFactorV=1.1, KurtosisFactorV=1.1}]
+2018-09-25 19:12:13.284 [main] DEBUG org.apache.ibatis.logging.LogFactory - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+2018-09-25 19:12:13.504 [main] DEBUG org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+2018-09-25 19:12:13.505 [main] DEBUG org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+2018-09-25 19:12:13.506 [main] DEBUG org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+2018-09-25 19:12:13.506 [main] DEBUG org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+2018-09-25 19:12:13.506 [main] DEBUG org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+2018-09-25 19:12:13.507 [main] DEBUG org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+2018-09-25 19:12:25.952 [main] DEBUG org.apache.ibatis.transaction.jdbc.JdbcTransaction - Opening JDBC Connection
+2018-09-25 19:12:54.862 [main] DEBUG org.apache.ibatis.logging.LogFactory - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+2018-09-25 19:12:55.084 [main] DEBUG org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+2018-09-25 19:12:55.085 [main] DEBUG org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+2018-09-25 19:12:55.085 [main] DEBUG org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+2018-09-25 19:12:55.085 [main] DEBUG org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+2018-09-25 19:12:55.086 [main] DEBUG org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+2018-09-25 19:12:55.086 [main] DEBUG org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+2018-09-25 19:14:12.406 [main] DEBUG org.apache.ibatis.transaction.jdbc.JdbcTransaction - Opening JDBC Connection
